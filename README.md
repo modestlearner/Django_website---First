@@ -2,6 +2,7 @@
 
 Aura is an application that lets you upload , store , play your music.
 You can listen to your songs from any device anywhere in the world.
+(**This is a raw html website without any css or javascript only posted to check the powerful functionality of Django**) 
 
 # GETTING STARTED
 
